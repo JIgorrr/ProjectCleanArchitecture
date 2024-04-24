@@ -4,8 +4,9 @@
     "\\CleanArchMvc",
     "\\CleanArchMvc\\CleanArchMvc.Domain",
     "\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces",
-    "\\CleanArchMvc\\CleanArchMvc.Infra.Data"
+    "\\CleanArchMvc\\CleanArchMvc.Infra.Data",
+    "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories"
   ],
-  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.sln",
   "PreviewInSolutionExplorer": false
 }
