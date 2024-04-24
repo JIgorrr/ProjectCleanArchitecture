@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ModeloAnemico1
-build_property.ProjectDir = C:\Users\Igor\Documents\Projeto\CleanArchtecture\
+build_property.ProjectDir = C:\Users\joaoi\Documents\Projetos\ProjectCleanArchitecture\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

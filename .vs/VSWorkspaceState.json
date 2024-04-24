@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CleanArchMvc",
+    "\\CleanArchMvc\\CleanArchMvc.Domain",
+    "\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces",
+    "\\CleanArchMvc\\CleanArchMvc.Infra.Data"
   ],
-  "SelectedNode": "\\ModeloAnemico1.csproj",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\EntitiesConfiguration",
   "PreviewInSolutionExplorer": false
 }
