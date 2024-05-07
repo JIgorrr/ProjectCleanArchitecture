@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "cEbkHmdtwarZmPU63RPildxu+tuAo/NCdtJ5mfCo/1fjFhqknUUDSOvOvxe4XZVie82cIiq5DnHzEW3Ze08Zmw==",
+  "dgSpecHash": "WSDiMeyhUOg4GNUpvL2F1/hXqibReXCBXEyt3seYdayqXCAlys4lypHVY9S5IaYZxDjCsl4F4uNJCdYeJ0apYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\joaoi\\Documents\\Projetos\\ProjectCleanArchitecture\\CleanArchMvc\\CleanArchMvc.Application\\CleanArchMvc.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\joaoi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaoi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaoi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\joaoi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

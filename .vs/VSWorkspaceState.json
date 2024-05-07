@@ -5,8 +5,10 @@
     "\\CleanArchMvc\\CleanArchMvc.Domain",
     "\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces",
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data",
-    "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories"
+    "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Context",
+    "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories",
+    "\\CleanArchMvc\\CleanArchMvc.WebUI"
   ],
-  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.sln",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }

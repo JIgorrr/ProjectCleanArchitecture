@@ -1,11 +1,7 @@
 ﻿using CleanArchMvc.WebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using System;
-using System.Collections.Generic;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace CleanArchMvc.WebUI.Controllers
 {
@@ -17,7 +13,7 @@ namespace CleanArchMvc.WebUI.Controllers
         {
             _logger = logger;
         }
-
+         
         public IActionResult Index()
         {
             return View();
