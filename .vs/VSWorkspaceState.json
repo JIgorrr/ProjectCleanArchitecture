@@ -2,6 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\CleanArchMvc",
+    "\\CleanArchMvc\\CleanArchMvc.Application",
+    "\\CleanArchMvc\\CleanArchMvc.Application\\Mappings",
     "\\CleanArchMvc\\CleanArchMvc.Domain",
     "\\CleanArchMvc\\CleanArchMvc.Domain\\Interfaces",
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data",
@@ -9,6 +11,6 @@
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories",
     "\\CleanArchMvc\\CleanArchMvc.WebUI"
   ],
-  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.WebUI\\appsettings.json",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
   "PreviewInSolutionExplorer": false
 }
