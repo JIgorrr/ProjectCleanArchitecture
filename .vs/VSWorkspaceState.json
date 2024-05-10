@@ -9,8 +9,9 @@
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data",
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Context",
     "\\CleanArchMvc\\CleanArchMvc.Infra.Data\\Repositories",
-    "\\CleanArchMvc\\CleanArchMvc.WebUI"
+    "\\CleanArchMvc\\CleanArchMvc.WebUI",
+    "\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers"
   ],
-  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.Application\\Mappings\\DomainToDTOMappingProfile.cs",
+  "SelectedNode": "\\CleanArchMvc\\CleanArchMvc.WebUI\\Controllers",
   "PreviewInSolutionExplorer": false
 }

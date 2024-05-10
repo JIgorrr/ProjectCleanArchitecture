@@ -57,6 +57,10 @@
             "AutoMapper": {
               "target": "Package",
               "version": "[13.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
             }
           },
           "imports": [
@@ -358,7 +362,7 @@
           "dependencies": {
             "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
               "target": "Package",
-              "version": "[5.0.17, )"
+              "version": "[8.0.4, )"
             }
           },
           "imports": [
