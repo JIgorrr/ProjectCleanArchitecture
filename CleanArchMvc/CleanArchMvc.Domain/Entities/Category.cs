@@ -6,12 +6,12 @@ namespace CleanArchMvc.Domain.Entities
 {
     public sealed class Category : BaseEntity
     {
-        public Category(string name)
+        public Category(string name) 
         {
             ValidationDomain(name);
         }
 
-        public Category(int id, string name)
+        public Category(int id, string name) 
         {
             DomainExceptionValidation.When(id < 0, 
                 "Invalid Id value");

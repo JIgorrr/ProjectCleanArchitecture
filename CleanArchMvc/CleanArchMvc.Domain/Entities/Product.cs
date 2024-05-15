@@ -5,12 +5,12 @@ namespace CleanArchMvc.Domain.Entities
 {
     public sealed class Product : BaseEntity
     {
-        public Product(string name, string description, decimal price, int stock, string image)
+        public Product(string name, string description, decimal price, int stock, string image) 
         {
             ValidationDomain(name, description, price, stock, image);      
         }
 
-        public Product(int id, string name, string description, decimal price, int stock, string image)
+        public Product(int id, string name, string description, decimal price, int stock, string image) 
         {
             DomainExceptionValidation.When(id < 0,
                 "Invalid id value");
