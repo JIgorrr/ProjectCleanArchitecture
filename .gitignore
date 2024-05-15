@@ -362,3 +362,7 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /CleanArchMvc/.vs/CleanArchMvc/v17/.suo
+/CleanArchMvc/.vs/CleanArchMvc/DesignTimeBuild/.dtbcache.v2
+/CleanArchMvc/.vs/CleanArchMvc/v17/.futdcache.v2
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
